@@ -1,4 +1,4 @@
-package com.andela.SMSManagementSpringAPI.main
+package com.andela.SMSManagementSpringAPI
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
